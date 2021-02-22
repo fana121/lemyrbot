@@ -1,4 +1,4 @@
-### I'm FXC7BOT Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+### I'm Fana 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="center">
 <a href="https://github.com/Fxc7"><img src="https://raw.githubusercontent.com/Fxc7/termux-bot-wa/main/src/glitchtext.png"></a>
 </p>
@@ -22,8 +22,9 @@
 
 ## Donasi yaa:)
 
-* [Saweria](https://saweria.co/FarhanXCo)
-* [Trakteer](https://trakteer.id/FarhanXCo)
+* Gopay/Dana/Indosat Ooredoo : 085891927691
+* Ovo/Telkomsel : 082137299043
+
 
 
 ## Tools
@@ -32,6 +33,7 @@
 > Termux
 > WhatsApp
 > 2 HandPhone
+> Kopi:V (udud? saia tydak udud ngab:D)
 ```
 
 ## Install
@@ -43,8 +45,8 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/Fxc7/termux-bot-wa
-> cd termux-bot-wa
+> git clone https://github.com/fana121/lemyrbot
+> cd lemyrbot
 > npm cache clear
 > bash install.sh
 > npm audit fix
